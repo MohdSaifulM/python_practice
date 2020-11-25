@@ -11,7 +11,7 @@
 
 ## Authors
 - Ebere
-- Siu Sing
+- Siu Singsss
 - Tristan
 
 ## References
