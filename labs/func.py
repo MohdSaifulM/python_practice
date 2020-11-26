@@ -16,6 +16,13 @@ def add():
     pass
 
 
+# Write a function that totals the numbers inside of a list
+# Or, subtracts the values if an optional "subtract" boolean is passed in
+# this function should take two params one list and a do_subtraction
+# by default do_subtraction should be set is set to false
+def total():
+    pass
+
 # Sum digits
 # sum_digits(10)  # returns 1
 # sum_digits(101) # returns 2
