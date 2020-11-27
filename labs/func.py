@@ -70,6 +70,15 @@ def likes(names):
     #your code here
     pass
 
+# Maximum 69 Number
+# Given a positive integer num consisting only of digits 6 and 9.
+# Return the maximum number you can get by changing at most one digit (6 becomes 9, and 9 becomes 6).
+# maximum69Number(9669) -> 9969
+# maximum69Number(9996) -> 9999
+def maximum69Number(num):
+    pass
+
+
 
 ###--------------------######
 # ------Champions ONLY------#
@@ -95,7 +104,7 @@ def countOccurences(numbers):
     pass
 
 # CountOccurences Part 2
-# Given
+# Given a number N, generate the string based on the Nth iteration of count and say
 # countAndSay(1) -> 1
 # countAndSay(2) -> 11
 # countAndSay(3) -> 21
@@ -109,3 +118,4 @@ def countOccurences(numbers):
 
 def countAndSay(num):
     pass
+
