@@ -74,3 +74,38 @@ def likes(names):
 ###--------------------######
 # ------Champions ONLY------#
 ###-------------------#######
+
+# checkPrinter
+# checkPrinter(1) -> "one"
+# checkPrinter(1000) -> "one thousand"
+# checkPrinter(1234) -> "one thousand two hundred thirty four"
+# checkPrinter(5432789) -> "five million four hundred thirty two thousand seven hundred eighty nine"
+
+def checkPrinter(value):
+    pass
+
+# CountOccurences
+# Given string of numbers, return a string of numbers representing the occurences of each number in sequence 
+# countOccurences("111") -> 31
+# countOccurences("111221") -> 312211
+# countOccurences("1113213211") -> 31131211131221
+# countOccurences("31131211131221") -> 13211311123113112211
+
+def countOccurences(numbers):
+    pass
+
+# CountOccurences Part 2
+# Given
+# countAndSay(1) -> 1
+# countAndSay(2) -> 11
+# countAndSay(3) -> 21
+# countAndSay(4) -> 1211
+# countAndSay(5) -> 111221 
+# countAndSay(6) -> 312211
+# countAndSay(7) -> 13112221
+# countAndSay(8) -> 1113213211
+# countAndSay(9) -> 31131211131221
+# countAndSay(10) -> 13211311123113112211
+
+def countAndSay(num):
+    pass
